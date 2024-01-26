@@ -1,0 +1,31 @@
+
+.ql-editor.ql-blank {
+  width: 60%;
+  background: #FFF;
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.5);
+  margin: 10px auto 10px auto !important;
+  min-height: 100vh;
+  
+}
+.ql-editor{
+  width: 60%;
+  height: 100vh !important;
+  background: #FFF;
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.5);
+  margin: 10px auto 10px auto !important;
+  height: 100vh;
+  min-height: 100v 
+}
+
+.ql-toolbar.ql-snow {
+  display: flex;
+  justify-content: center;
+  position: sticky;
+  top: 0px;
+
+  z-index: 1;
+  background: #F3F3F3;
+  border: none !important;
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.5);
+}
+
